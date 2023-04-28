@@ -1,6 +1,4 @@
-.github
 node_modules
 .hintrc
 .stylelintrc.json
-.linters.yml
 test.md
